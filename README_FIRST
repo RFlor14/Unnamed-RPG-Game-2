@@ -1,0 +1,44 @@
+# Unnamed-RPG-Game
+A basic point and click rpg game.
+
+
+
+BEFORE YOU OPEN THIS ON UNITY
+--------------------------
+BEFORE YOU OPEN THIS ON UNITY
+
+if it asks ---- DO NOT UPDATE UNITY,  OPEN IT with " UNITY VERSION 2019.1.2f1 "
+
+Download the old unity version here: https://unity3d.com/get-unity/download/archive
+
+
+
+SOME ASSETS WILL NOT LOAD, DO THIS! (YOU ONLY DO THIS ONCE)
+--------------------------
+Go on steam, download blender.
+
+once you download blender
+
+open the "Unnamed RPG Game"
+
+then "Assets"
+
+then "Environment"
+
+right click on BaseEnvironment.blend
+
+open with  and scroll down until you can pick "choose another app"
+
+go to program files x86
+
+then "steam"
+
+then "steamapps"
+
+then "common"
+
+and double click on blender.exe
+
+now close blender
+
+reopen the project in unity.
